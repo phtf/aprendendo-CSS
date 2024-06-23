@@ -11,4 +11,6 @@ div.exemplo{
     background-repeat: no-repeat;
     border: 15px dashed palegoldenrod;
     padding: 30px;
+    background-origin: border-box;
+    background-clip: ;
 }
